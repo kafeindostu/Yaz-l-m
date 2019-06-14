@@ -1,2 +1,2 @@
-# Yaz-l-m
+# Yazılım
 Kafeindostu.com Yazılım grubu içindir.
